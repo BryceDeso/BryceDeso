@@ -1,7 +1,4 @@
 ### Hi there 👋
 
-
-
-- 🔭 I’m currently working on a Crafting System.
-- 🌱 I’m currently learning new things.
+- 🔭 I’m currently working on a Unity Crafting System.
 - 📫 How to reach me: Brycedeso123@gmail.com
