@@ -4,10 +4,13 @@ I am a game programmer who likes to play as well as make games!
 
 I have experience working in and with:
  
- - Unity
- - Unreal
- - C#
- - C++
+  - Unity
+  - Unreal
+  - C#
+  - C++
+  - Git
+  - Perforce
+  - Visual Studio
 
 <br>
 
