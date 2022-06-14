@@ -14,17 +14,17 @@ I have experience working in and with:
 
 <br>
 
+### Resume:
+
+[My Resume](Resume.pdf)
+
+<br>
+
 ## Current Project:
 
 I’m currently working on a crafting game in Unity.
 
 [Click this link if you wanna check out the current demo!](https://github.com/BryceDeso/Crafting-Game)
-
-<br>
-
-### Resume:
-
-[My Resume](Resume.pdf)
 
 <br>
 
