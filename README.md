@@ -1,14 +1,14 @@
-### Hi there 👋
+### Hi there! 👋
 
 I am a game programmer who mainly works in Unity and Unreal.
 
-[My Resume](https://resume.creddle.io/resume/da2bcg8gk1o)
-
-[Linked In](https://www.linkedin.com/in/bryce-deshotel-2782041bb/)
+<br>
 
 ## Current Project:
 
 I’m currently working on a crafting game in Unity.
+
+<br>
 
 ## Projects Ive worked on:
 
@@ -19,3 +19,14 @@ I’m currently working on a crafting game in Unity.
 Rogue Star is a short 3D stealth game made in Unreal for a collage project. As a programmer on this project, my tasks were programming the UI(except the stealth bar) and level design.
 
 [Itch.io page](https://liquid-moon-productions.itch.io/rogue-star)
+
+<br>
+<br>
+
+### Ways to contact me:
+
+[Linked In](https://www.linkedin.com/in/bryce-deshotel-2782041bb/)
+
+### Resume:
+
+[My Resume](https://resume.creddle.io/resume/da2bcg8gk1o)
