@@ -8,7 +8,7 @@ I am a game programmer who mainly works in Unity and Unreal.
 
 ## Current Project:
 
-I’m currently working on a crafting system in Unity.
+I’m currently working on a crafting game in Unity.
 
 ## Projects Ive worked on:
 
