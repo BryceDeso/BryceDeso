@@ -1,6 +1,13 @@
 ### Hi there! 👋
 
-I am a game programmer who can work in Unity and Unreal 4.
+I am a game programmer who likes to play as well as make games!
+
+I have experience working in and with:
+ 
+ - Unity
+ - Unreal
+ - C#
+ - C++
 
 <br>
 
@@ -9,6 +16,12 @@ I am a game programmer who can work in Unity and Unreal 4.
 I’m currently working on a crafting game in Unity.
 
 [Link if you wanna check out the demo!](https://github.com/BryceDeso/Crafting-Game)
+
+<br>
+
+### Resume:
+
+[My Resume](https://resume.creddle.io/resume/da2bcg8gk1o)
 
 <br>
 
@@ -27,7 +40,3 @@ Rogue Star is a short 3D stealth game made in Unreal for a collage project. As a
 ### Ways to contact me:
 
 [Linked In](https://www.linkedin.com/in/bryce-deshotel-2782041bb/)
-
-### Resume:
-
-[My Resume](https://resume.creddle.io/resume/da2bcg8gk1o)
