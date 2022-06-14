@@ -21,7 +21,7 @@ I’m currently working on a crafting game in Unity.
 
 ### Resume:
 
-[My Resume](https://resume.creddle.io/resume/da2bcg8gk1o)
+[My Resume](Resume.pdf)
 
 <br>
 
