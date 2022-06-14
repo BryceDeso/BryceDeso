@@ -4,7 +4,7 @@ I’m currently working on a crafting system in Unity.
 
 [Linked In](https://www.linkedin.com/in/bryce-deshotel-2782041bb/)
 
-[Resume](https://resume.creddle.io/)
+[Resume](https://resume.creddle.io/resume/da2bcg8gk1o)
 
 ## Projects Ive worked on:
 
