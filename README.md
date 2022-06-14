@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I am a game programmer who mainly works in Unity and Unreal.
+I am a game programmer who mainly works in Unity and Unreal 4.
 
 <br>
 
