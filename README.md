@@ -2,13 +2,11 @@
 
 I am a game programmer who mainly works in Unity and Unreal.
 
+[My Resume](https://resume.creddle.io/resume/da2bcg8gk1o)
 
-## Ways to reach me:
 [Linked In](https://www.linkedin.com/in/bryce-deshotel-2782041bb/)
 
-[Resume](https://resume.creddle.io/resume/da2bcg8gk1o)
-
-### Current Project:
+## Current Project:
 
 I’m currently working on a crafting system in Unity.
 
