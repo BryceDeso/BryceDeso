@@ -12,9 +12,6 @@ I have experience working in and with:
   - Perforce
   - Visual Studio
 
-<br>
-
-### Resume:
 
 [My Resume](Resume.pdf)
 
