@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I am a game programmer who likes to play as well as make games!
+I am a game programmer who is based in Lousisna and likes to play as well as make games!
 
 I have experience working in and with:
  
@@ -12,8 +12,11 @@ I have experience working in and with:
   - Perforce
   - Visual Studio
 
+<br>
 
-[My Resume](Resume.pdf)
+### Resume
+
+[PDF](Resume.pdf)
 
 <br>
 
