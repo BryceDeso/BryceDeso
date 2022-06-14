@@ -21,7 +21,6 @@ Rogue Star is a short 3D stealth game made in Unreal for a collage project. As a
 [Itch.io page](https://liquid-moon-productions.itch.io/rogue-star)
 
 <br>
-<br>
 
 ### Ways to contact me:
 
