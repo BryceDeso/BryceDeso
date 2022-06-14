@@ -8,6 +8,8 @@ I am a game programmer who can work in Unity and Unreal 4.
 
 I’m currently working on a crafting game in Unity.
 
+[Link if you wanna check out the demo!](https://github.com/BryceDeso/Crafting-Game)
+
 <br>
 
 ## Projects Ive worked on:
