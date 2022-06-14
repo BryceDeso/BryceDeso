@@ -1,10 +1,16 @@
 ### Hi there 👋
 
-I’m currently working on a crafting system in Unity.
+I am a game programmer who mainly works in Unity and Unreal.
 
+
+## Ways to reach me:
 [Linked In](https://www.linkedin.com/in/bryce-deshotel-2782041bb/)
 
 [Resume](https://resume.creddle.io/resume/da2bcg8gk1o)
+
+### Current Project:
+
+I’m currently working on a crafting system in Unity.
 
 ## Projects Ive worked on:
 
