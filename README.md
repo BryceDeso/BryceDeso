@@ -28,7 +28,7 @@ I’m currently working on a crafting game in Unity.
 
 <br>
 
-## Projects worked on:
+## Projects:
 
 ### Rogue Star
 
