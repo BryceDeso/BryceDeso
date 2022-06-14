@@ -43,3 +43,7 @@ Rogue Star is a short 3D stealth game made in Unreal for a collage project. As a
 ### Got questions? You can contact me here!
 
 [Linked In](https://www.linkedin.com/in/bryce-deshotel-2782041bb/)
+
+Email: brycedeso123@gmail.com
+
+Discord: MINECRAFTER_BD#1572
