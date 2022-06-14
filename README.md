@@ -15,7 +15,7 @@ I have experience working in and with:
 
 I’m currently working on a crafting game in Unity.
 
-[Link if you wanna check out the demo!](https://github.com/BryceDeso/Crafting-Game)
+[Click this link if you wanna check out the current demo!](https://github.com/BryceDeso/Crafting-Game)
 
 <br>
 
