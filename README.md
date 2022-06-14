@@ -4,6 +4,8 @@ I’m currently working on a crafting system in Unity.
 
 [Linked In](https://www.linkedin.com/in/bryce-deshotel-2782041bb/)
 
+[Resume](https://resume.creddle.io/)
+
 ## Projects Ive worked on:
 
 ### Rogue Star
