@@ -1,22 +1,8 @@
 ### Hi there! 👋
 
-I am a programmer who likes to play as well as make games!
+I am a Game Programmer who can work in C++, C#, Unreal 4, and Unity! 
 
-I have experience working in and with:
- 
-  - Unity
-  - Unreal 4
-  - C#
-  - C++
-  - Git
-  - Perforce
-  - Visual Studio
-
-<br>
-
-### Resume
-
-[PDF](Resume.pdf)
+Heres my [resume](Resume.pdf).
 
 <br>
 
