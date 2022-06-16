@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I am a game programmer who likes to play as well as make games!
+I am a programmer who likes to play as well as make games!
 
 I have experience working in and with:
  
