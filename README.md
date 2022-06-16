@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I am a game programmer who is based in Lousisna and likes to play as well as make games!
+I am a game programmer who likes to play as well as make games!
 
 I have experience working in and with:
  
@@ -42,6 +42,6 @@ Rogue Star is a short 3D stealth game made in Unreal for a collage project. As a
 
 ### Got questions? You can contact me here!
 
-[Linked In](https://www.linkedin.com/in/bryce-deshotel-2782041bb/)
+[Linked In](https://www.linkedin.com/in/bryce-deshotel/)
 
 brycedeso123@gmail.com
