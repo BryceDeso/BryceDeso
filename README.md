@@ -10,7 +10,7 @@ Heres my [resume](Resume.pdf).
 
 I’m currently working on a crafting game in Unity.
 
-[Click this link if you wanna check out the current demo!](https://github.com/BryceDeso/Crafting-Game)
+[Click this link if you wanna check out the current demo!](https://github.com/BryceDeso/Crafting-Game/releases/tag/v0.1)
 
 <br>
 
