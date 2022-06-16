@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I am a game programmer who makes projects in C++, C#, Unreal 4, and Unity!
+I am a game programmer who makes games with C++, C#, Unreal 4, and Unity!
 
 Heres my [resume](Resume.pdf).
 
